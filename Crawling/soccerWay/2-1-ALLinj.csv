@@ -1,0 +1,478 @@
+Name,First Name,Last Name,Team,Number of Inj,inj22,Freq Inj,inj days 20-21,inj days 19-20,inj days 18-19,Sus days 22,sus days 20-21,sus days 19-20,sus days 18-19,Career Suspension days,Career INJ days
+A. Lacazette,Alexandre,Alexandre,Arsenal,14,0.0,Hamstring,20.0,48.0,19.0,0.0,0.0,0.0,0.0,28.0,274.0
+A. Lokonga,Albert-Mboyo,Albert-Mboyo,Arsenal,1,9.0,Virus,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0,9.0
+A. Maitland-Niles,Ainsley,Ainsley,Arsenal,8,9.0,Knock,11.0,0.0,100.0,0.0,0.0,2.0,7.0,9.0,139.0
+A. Ramsdale,Aaron,Aaron,Arsenal,2,0.0,Knock,0.0,11.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
+B. Leno,Bernd,Bernd,Arsenal,2,7.0,Hip/Thigh Injury,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,74.0
+B. Saka,Bukayo,Bukayo,Arsenal,8,3.0,Thigh Muscle Strain,30.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
+B. White,Benjamin,Benjamin,Arsenal,1,15.0,Knock,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,15.0
+C. Chambers,Calum,Calum,Arsenal,12,13.0,Knock,5.0,0.0,22.0,0.0,0.0,5.0,0.0,25.0,535.0
+Cédric Soares,Cédric Ricardo,Cédric Ricardo,Arsenal,11,5.0,Ankle/Foot Injury,31.0,202.0,16.0,0.0,0.0,0.0,0.0,0.0,352.0
+E. Nketiah,Edward,Edward,Arsenal,1,33.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,11.0,0.0,11.0,33.0
+E. Smith Rowe,Emile,Emile,Arsenal,12,6.0,Groin/Pelvis Injury,62.0,18.0,150.0,0.0,0.0,0.0,0.0,0.0,236.0
+G. Xhaka,Granit,Granit,Arsenal,10,89.0,Groin Strain,15.0,27.0,44.0,26.0,13.0,0.0,4.0,83.0,179.0
+Gabriel Magalhães,Gabriel,Gabriel,Arsenal,4,15.0,Knee Injury,20.0,0.0,0.0,15.0,3.0,6.0,0.0,24.0,89.0
+Gabriel Martinelli,Gabriel Teodoro,Gabriel Teodoro,Arsenal,6,1.0,Knock,9.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,194.0
+K. Tierney,Kieran,Kieran,Arsenal,8,18.0,Groin/Pelvis Injury,87.0,139.0,0.0,0.0,0.0,0.0,0.0,0.0,244.0
+M. Ødegaard,Martin,Martin,Arsenal,10,0.0,Knee Injury,62.0,15.0,9.0,0.0,0.0,0.0,0.0,0.0,188.0
+Mohamed Elneny,Mohamed Naser,Mohamed Naser,Arsenal,5,24.0,Thigh Muscle Strain,12.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,86.0
+N. Pépé,Nicolas,Nicolas,Arsenal,2,0.0,Ankle/Foot Injury,0.0,4.0,0.0,0.0,22.0,0.0,0.0,22.0,10.0
+P. Aubameyang,Pierre-Emerick Emiliano François,Pierre-Emerick Emiliano François,Arsenal,11,6.0,Knock,39.0,7.0,28.0,23.0,0.0,27.0,0.0,50.0,88.0
+Pablo Marí,Pablo,Pablo,Arsenal,5,1.0,Ankle/Foot Injury,25.0,0.0,0.0,0.0,0.0,0.0,12.0,34.0,221.0
+R. Holding,Rob,Rob,Arsenal,6,22.0,Knee Injury,15.0,51.0,0.0,0.0,0.0,0.0,0.0,3.0,356.0
+S. Kolašinac,Sead,Sead,Arsenal,17,70.0,Thigh Muscle Strain,41.0,172.0,74.0,0.0,3.0,0.0,0.0,3.0,377.0
+T. Partey,Thomas,Thomas,Arsenal,8,52.0,Hamstring,84.0,4.0,0.0,0.0,0.0,19.0,14.0,186.0,156.0
+T. Tomiyasu,Takehiro,Takehiro,Arsenal,2,11.0,Calf/Shin Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
+A. El Ghazi,Anwar,Anwar,Aston Villa,9,13.0,Groin Strain,0.0,9.0,0.0,0.0,0.0,0.0,0.0,7.0,99.0
+A. Tuanzebe,Axel,Axel,Aston Villa,4,9.0,Ankle/Foot Injury,0.0,110.0,0.0,0.0,0.0,0.0,0.0,0.0,242.0
+A. Young,Ashley,Ashley,Aston Villa,22,12.0,Ankle/Foot Injury,0.0,0.0,5.0,0.0,0.0,8.0,15.0,40.0,642.0
+Bertrand Traoré,Bertrand Isidore,Bertrand Isidore,Aston Villa,9,108.0,Thigh Muscle Strain,31.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,234.0
+Carney Chukwuemeka,Carney Chibueze,Carney Chibueze,Aston Villa,1,17.0,Groin/Pelvis Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0
+D. Ings,Daniel William John,Daniel William John,Aston Villa,15,34.0,Hamstring,106.0,0.0,105.0,0.0,0.0,0.0,0.0,0.0,713.0
+Douglas Luiz,Douglas Luiz,Douglas Luiz,Aston Villa,6,41.0,Hamstring,0.0,0.0,63.0,0.0,6.0,0.0,8.0,14.0,109.0
+E. Buendía,Emiliano,Emiliano,Aston Villa,5,10.0,Ankle/Foot Injury,0.0,12.0,0.0,0.0,0.0,0.0,13.0,414.0,78.0
+E. Konsa,Ezri,Ezri,Aston Villa,4,12.0,Thigh Muscle Strain,12.0,17.0,0.0,18.0,0.0,0.0,6.0,24.0,41.0
+E. Martínez,Damián Emiliano,Damián Emiliano,Aston Villa,1,0.0,Groin/Pelvis Injury,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+J. McGinn,John,John,Aston Villa,2,5.0,Ankle/Foot Injury,0.0,166.0,0.0,0.0,4.0,0.0,17.0,21.0,171.0
+J. Philogene-Bidace,Jaden,Jaden,Aston Villa,2,28.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+J. Steer,Jed,Jed,Aston Villa,3,13.0,Calf/Shin Injury,0.0,220.0,0.0,0.0,0.0,0.0,0.0,0.0,233.0
+K. Davis,Keinan,Keinan,Aston Villa,5,82.0,Thigh Muscle Strain,37.0,115.0,0.0,0.0,0.0,0.0,0.0,0.0,234.0
+K. Hause,Kortney,Kortney,Aston Villa,4,0.0,Ankle/Foot Injury,166.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,187.0
+L. Bailey,Leon,Leon,Aston Villa,7,90.0,Hamstring,32.0,54.0,40.0,0.0,6.0,57.0,0.0,75.0,216.0
+M. Cash,Matty,Matty,Aston Villa,3,4.0,Hamstring,41.0,0.0,0.0,0.0,9.0,0.0,0.0,9.0,45.0
+M. Nakamba,Marvelous,Marvelous,Aston Villa,3,118.0,Groin/Pelvis Injury,0.0,0.0,0.0,0.0,0.0,0.0,7.0,36.0,132.0
+M. Sanson,Morgan,Morgan,Aston Villa,12,42.0,Knee Injury,29.0,0.0,18.0,0.0,0.0,12.0,4.0,24.0,498.0
+M. Targett,Matt,Matt,Aston Villa,17,13.0,Knock,1.0,61.0,13.0,0.0,0.0,0.0,0.0,0.0,386.0
+O. Watkins,Ollie,Ollie,Aston Villa,1,14.0,Knee Injury,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.0,14.0
+T. Mings,Tyrone,Tyrone,Aston Villa,8,2.0,Knee Injury,4.0,27.0,0.0,7.0,2.0,0.0,3.0,51.0,633.0
+Trézéguet,Mahmoud Ahmed Ibrahim,Mahmoud Ahmed Ibrahim,Aston Villa,2,0.0,Head Injury,52.0,0.0,0.0,0.0,0.0,16.0,0.0,16.0,295.0
+B. Mbeumo,Bryan,Bryan,Brentford,2,10.0,Calf/Shin Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+C. Goode,Charlie,Charlie,Brentford,1,11.0,Thigh Muscle Rupture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
+C. Nørgaard,Christian,Christian,Brentford,1,2.0,Back Injury,0.0,0.0,0.0,3.0,0.0,14.0,0.0,17.0,2.0
+David Raya,David,David,Brentford,1,69.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0
+E. Pinnock,Ethan Rupert,Ethan Rupert,Brentford,2,5.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+I. Toney,Ivan,Ivan,Brentford,2,19.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,36.0,7.0,81.0,40.0
+J. Dasilva,Pelenda Joshua Tunga,Pelenda Joshua Tunga,Brentford,1,0.0,Groin/Pelvis Injury,0.0,0.0,0.0,0.0,12.0,0.0,0.0,12.0,179.0
+J. Jeanvier,Julian,Julian,Brentford,5,0.0,Knee Injury,209.0,0.0,0.0,0.0,0.0,21.0,0.0,21.0,423.0
+K. Ajer,Kristoffer,Kristoffer,Brentford,2,77.0,Ankle Fracture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,77.0
+M. Forss,Marcus,Marcus,Brentford,0,0.0,,0.0,0.0,0.0,0.0,0.0,7.0,0.0,7.0,0.0
+M. Jensen,Mathias,Mathias,Brentford,3,16.0,Hamstring,0.0,0.0,76.0,0.0,0.0,0.0,0.0,0.0,138.0
+M. Jørgensen,Mathias,Mathias,Brentford,4,57.0,Ankle/Foot Injury,0.0,0.0,43.0,0.0,0.0,0.0,15.0,32.0,108.0
+M. Rasmussen,Mads,Mads,Brentford,1,17.0,Virus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0
+M. Sørensen,Mads,Mads,Brentford,1,93.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,93.0
+P. Jansson,Pontus,Pontus,Brentford,0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,7.0,40.0,0.0
+R. Henry,Rico,Rico,Brentford,2,13.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0
+S. Baptiste,Shandon,Shandon,Brentford,1,46.0,Shoulder Injury,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,46.0
+S. Ghoddos,Saman,Saman,Brentford,2,0.0,Appendicitis,0.0,41.0,31.0,0.0,0.0,127.0,0.0,127.0,72.0
+Sergi Canós,Sergi,Sergi,Brentford,1,2.0,Knock,0.0,0.0,0.0,6.0,0.0,0.0,0.0,23.0,2.0
+T. Fosu,Tarique,Tarique,Brentford,1,60.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,21.0,21.0,60.0
+V. Janelt,Vitaly,Vitaly,Brentford,2,23.0,Thigh Muscle Rupture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0
+Y. Wissa,Yoane,Yoane,Brentford,1,41.0,Ankle Fracture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0
+A. Connolly,Aaron Anthony,Aaron Anthony,Brighton & Hov…,6,21.0,Thigh Muscle Rupture,97.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,131.0
+A. Lallana,Adam David,Adam David,Brighton & Hov…,26,11.0,Groin Strain,67.0,0.0,144.0,0.0,0.0,0.0,0.0,0.0,650.0
+A. Mac Allister,Alexis,Alexis,Brighton & Hov…,3,2.0,Back Injury,38.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+A. Webster,Adam,Adam,Brighton & Hov…,7,55.0,Groin/Pelvis Injury,64.0,30.0,0.0,0.0,0.0,0.0,0.0,5.0,149.0
+Cucurella,Marc,Marc,Brighton & Hov…,0,0.0,,0.0,0.0,0.0,0.0,7.0,7.0,4.0,24.0,0.0
+D. Burn,Dan,Dan,Brighton & Hov…,6,21.0,Thigh Muscle Rupture,24.0,36.0,0.0,0.0,0.0,0.0,0.0,26.0,222.0
+D. Welbeck,Daniel Nii,Daniel Nii,Brighton & Hov…,27,109.0,Knee Injury,54.0,103.0,203.0,0.0,0.0,0.0,0.0,0.0,1471.0
+E. Mwepu,Enock,Enock,Brighton & Hov…,3,41.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0
+J. Locadia,Jürgen,Jürgen,Brighton & Hov…,9,10.0,Ankle/Foot Injury,0.0,4.0,8.0,0.0,0.0,0.0,0.0,0.0,303.0
+J. Sarmiento,Jeremy Leonel,Jeremy Leonel,Brighton & Hov…,1,32.0,Thigh Muscle Rupture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+J. Steele,Jason,Jason,Brighton & Hov…,3,4.0,Knock,28.0,0.0,110.0,0.0,0.0,0.0,0.0,21.0,142.0
+J. Veltman,Joël Ivo,Joël Ivo,Brighton & Hov…,15,15.0,Knee Injury,32.0,127.0,180.0,0.0,0.0,0.0,0.0,14.0,565.0
+K. Scherpen,Kjell,Kjell,Brighton & Hov…,1,0.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0
+L. Dunk,Lewis,Lewis,Brighton & Hov…,3,53.0,Ankle/Foot Injury,0.0,0.0,26.0,0.0,28.0,13.0,4.0,116.0,79.0
+L. Trossard,Leandro,Leandro,Brighton & Hov…,4,13.0,Groin/Pelvis Injury,25.0,47.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0
+N. Maupay,Neal,Neal,Brighton & Hov…,5,5.0,Knee Injury,7.0,5.0,0.0,0.0,14.0,0.0,0.0,27.0,298.0
+P. Groß,Pascal,Pascal,Brighton & Hov…,2,0.0,Ankle/Foot Injury,0.0,0.0,117.0,0.0,0.0,0.0,0.0,0.0,117.0
+Robert Sánchez,Robert,Robert,Brighton & Hov…,0,0.0,,0.0,0.0,0.0,14.0,0.0,0.0,0.0,14.0,0.0
+S. Alzate,Steven,Steven,Brighton & Hov…,3,76.0,Ankle/Foot Injury,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,164.0
+S. Duffy,Shane Patrick Michael,Shane Patrick Michael,Brighton & Hov…,4,2.0,Calf/Shin Injury,0.0,35.0,0.0,11.0,0.0,0.0,18.0,35.0,37.0
+S. March,Solomon,Solomon,Brighton & Hov…,6,0.0,Ankle/Foot Injury,134.0,55.0,15.0,0.0,0.0,0.0,0.0,0.0,208.0
+T. Lamptey,Tariq,Tariq,Brighton & Hov…,4,37.0,Hamstring,185.0,0.0,0.0,0.0,7.0,0.0,0.0,7.0,222.0
+T. Richards,Taylor,Taylor,Brighton & Hov…,1,12.0,Back Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
+Y. Bissouma,Yves,Yves,Brighton & Hov…,5,25.0,Hip/Thigh Injury,0.0,0.0,22.0,10.0,27.0,0.0,0.0,51.0,170.0
+A. Barnes,Ashley Luke,Ashley Luke,Burnley,9,57.0,Groin/Pelvis Injury,73.0,28.0,0.0,0.0,0.0,0.0,0.0,75.0,524.0
+A. Lennon,Aaron,Aaron,Burnley,21,19.0,Hamstring,0.0,19.0,175.0,0.0,0.0,0.0,0.0,0.0,721.0
+A. Westwood,Ashley,Ashley,Burnley,11,13.0,Groin/Pelvis Injury,12.0,24.0,5.0,12.0,0.0,7.0,0.0,29.0,142.0
+B. Mee,Ben,Ben,Burnley,8,10.0,Knock,5.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,233.0
+C. Roberts,Connor,Connor,Burnley,2,66.0,Groin/Pelvis Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,66.0
+C. Taylor,Charlie,Charlie,Burnley,8,0.0,Thigh Muscle Strain,73.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,170.0
+C. Wood,Christopher Grant,Christopher Grant,Burnley,14,0.0,Thigh Muscle Strain,30.0,70.0,7.0,0.0,0.0,0.0,0.0,0.0,229.0
+D. McNeil,Dwight,Dwight,Burnley,5,0.0,Knock,21.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0
+D. Stephens,Dale,Dale,Burnley,10,27.0,Knock,48.0,26.0,34.0,0.0,0.0,8.0,24.0,54.0,365.0
+E. Pieters,Erik,Erik,Burnley,18,0.0,Knock,55.0,1.0,0.0,0.0,0.0,0.0,0.0,28.0,427.0
+J. Brownhill,Josh,Josh,Burnley,4,7.0,Ankle/Foot Injury,27.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,34.0
+J. Cork,Jack,Jack,Burnley,12,0.0,Ankle/Foot Injury,31.0,32.0,10.0,0.0,0.0,0.0,0.0,0.0,406.0
+J. Guðmunds­son,Johann,Johann,Burnley,23,0.0,Thigh Muscle Strain,90.0,280.0,101.0,0.0,0.0,0.0,0.0,21.0,589.0
+J. Rodriguez,Jay,Jay,Burnley,18,16.0,Ankle/Foot Injury,45.0,27.0,0.0,0.0,0.0,0.0,0.0,0.0,821.0
+J. Tarkowski,James,James,Burnley,9,0.0,Groin Strain,13.0,0.0,42.0,12.0,0.0,0.0,0.0,38.0,192.0
+K. Long,Kevin,Kevin,Burnley,7,0.0,Knee Injury,12.0,30.0,0.0,0.0,0.0,0.0,0.0,28.0,655.0
+M. Cornet,Gnaly Albert Maxwel,Gnaly Albert Maxwel,Burnley,17,56.0,Thigh Muscle Strain,8.0,23.0,54.0,6.0,6.0,0.0,0.0,16.0,236.0
+M. Lowton,Matthew,Matthew,Burnley,9,0.0,Knock,24.0,128.0,27.0,0.0,0.0,0.0,4.0,12.0,373.0
+M. Vydra,Matěj,Matěj,Burnley,7,24.0,Back Injury,33.0,29.0,0.0,0.0,0.0,0.0,0.0,0.0,135.0
+N. Collins,Nathan Michael,Nathan Michael,Burnley,1,18.0,Knock,0.0,0.0,0.0,0.0,0.0,11.0,0.0,11.0,18.0
+N. Pope,Nick,Nick,Burnley,6,2.0,Shoulder Injury,34.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,189.0
+P. Bardsley,Phil,Phil,Burnley,23,9.0,Knock,53.0,25.0,77.0,0.0,0.0,0.0,0.0,43.0,440.0
+W. Hennessey,Wayne Robert,Wayne Robert,Burnley,11,5.0,Knock,169.0,0.0,31.0,0.0,0.0,0.0,0.0,0.0,317.0
+A. Christensen,Andreas,Andreas,Chelsea,18,7.0,Knock,20.0,39.0,15.0,0.0,0.0,0.0,0.0,0.0,108.0
+A. Rüdiger,Antonio,Antonio,Chelsea,10,8.0,Knee Injury,6.0,110.0,60.0,0.0,0.0,0.0,0.0,0.0,214.0
+Azpilicueta,César,César,Chelsea,4,3.0,Hamstring,42.0,2.0,0.0,0.0,0.0,0.0,0.0,24.0,54.0
+B. Chilwell,Ben,Ben,Chelsea,15,40.0,Ankle/Foot Injury,3.0,29.0,25.0,0.0,0.0,0.0,0.0,0.0,252.0
+C. Hudson-Odoi,Callum,Callum,Chelsea,8,7.0,Hamstring,16.0,145.0,32.0,0.0,0.0,0.0,0.0,0.0,354.0
+C. Pulisic,Christian,Christian,Chelsea,11,117.0,Calf/Shin Injury,92.0,169.0,53.0,0.0,0.0,0.0,0.0,0.0,431.0
+H. Ziyech,Hakim,Hakim,Chelsea,12,9.0,Calf Muscle Strain,73.0,34.0,35.0,0.0,0.0,0.0,0.0,31.0,160.0
+Jorginho,Jorge Luiz,Jorge Luiz,Chelsea,1,7.0,Knock,0.0,0.0,0.0,0.0,0.0,120.0,0.0,120.0,7.0
+K. Havertz,Kai Lukas,Kai Lukas,Chelsea,9,16.0,Knock,46.0,29.0,4.0,0.0,0.0,0.0,0.0,0.0,95.0
+Kepa,Kepa,Kepa,Chelsea,5,0.0,Hamstring,25.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,154.0
+M. Bettinelli,Marcus,Marcus,Chelsea,1,0.0,Knee Injury,0.0,0.0,119.0,0.0,0.0,0.0,0.0,8.0,119.0
+M. Kovačić,Mateo,Mateo,Chelsea,17,50.0,Knock,36.0,116.0,33.0,0.0,3.0,4.0,0.0,13.0,320.0
+M. Mount,Mason,Mason,Chelsea,3,7.0,Ankle/Foot Injury,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0
+M. Sarr,Malang,Malang,Chelsea,4,0.0,Back Injury,0.0,55.0,4.0,0.0,0.0,0.0,0.0,2.0,71.0
+Marcos Alonso,Marcos,Marcos,Chelsea,8,16.0,Ankle/Foot Injury,0.0,28.0,27.0,0.0,0.0,0.0,0.0,15.0,272.0
+N. Kanté,N'Golo,N'Golo,Chelsea,22,61.0,Hamstring,34.0,206.0,29.0,0.0,0.0,0.0,0.0,31.0,379.0
+R. Barkley,Ross,Ross,Chelsea,17,0.0,Hamstring,58.0,56.0,8.0,0.0,0.0,0.0,0.0,0.0,582.0
+R. James,Reece,Reece,Chelsea,9,27.0,Ankle/Foot Injury,28.0,72.0,0.0,14.0,0.0,0.0,0.0,14.0,127.0
+R. Loftus-Cheek,Ruben,Ruben,Chelsea,19,32.0,Knock,24.0,0.0,56.0,0.0,0.0,0.0,0.0,0.0,673.0
+R. Lukaku,Romelu,Romelu,Chelsea,20,53.0,Hamstring,0.0,0.0,59.0,0.0,0.0,0.0,0.0,2.0,235.0
+Saúl,Saúl,Saúl,Chelsea,6,0.0,Hamstring,20.0,0.0,17.0,0.0,3.0,16.0,13.0,76.0,96.0
+T. Chalobah,Trevoh,Trevoh,Chelsea,3,13.0,Knee Injury,40.0,0.0,0.0,0.0,2.0,14.0,0.0,16.0,53.0
+T. Werner,Timo,Timo,Chelsea,8,46.0,Thigh Muscle Strain,6.0,5.0,22.0,0.0,0.0,0.0,0.0,0.0,79.0
+Thiago Silva,Thiago Emiliano,Thiago Emiliano,Chelsea,24,5.0,Thigh Muscle Strain,64.0,39.0,54.0,0.0,11.0,0.0,2.0,30.0,449.0
+É. Mendy,Édouard,Édouard,Chelsea,3,0.0,Hand Injury,3.0,19.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0
+C. Benteke,Christian,Christian,Crystal Palace,17,0.0,Knee Injury,25.0,49.0,144.0,0.0,2.0,14.0,0.0,51.0,565.0
+C. Gallagher,Conor,Conor,Crystal Palace,1,6.0,Knock,0.0,0.0,0.0,0.0,13.0,0.0,0.0,13.0,6.0
+C. Kouyaté,Cheikhou,Cheikhou,Crystal Palace,18,0.0,Knock,3.0,15.0,36.0,0.0,0.0,0.0,0.0,5.0,310.0
+E. Eze,Eberechi,Eberechi,Crystal Palace,4,4.0,Calf/Shin Injury,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,173.0
+Guaita,Vicente,Vicente,Crystal Palace,7,0.0,Calf Muscle Strain,0.0,20.0,16.0,0.0,0.0,0.0,0.0,14.0,136.0
+J. Andersen,Joachim,Joachim,Crystal Palace,4,23.0,Ankle/Foot Injury,16.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,79.0
+J. Ayew,Jordan,Jordan,Crystal Palace,3,0.0,Knock,10.0,0.0,10.0,0.0,0.0,0.0,0.0,208.0,27.0
+J. Butland,Jack,Jack,Crystal Palace,5,0.0,Ankle Fracture,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,391.0
+J. Mateta,Jean-Philippe,Jean-Philippe,Crystal Palace,2,0.0,Knee Injury,0.0,0.0,1.0,0.0,0.0,70.0,0.0,70.0,137.0
+J. McArthur,James,James,Crystal Palace,16,57.0,Knock,124.0,24.0,5.0,0.0,0.0,0.0,0.0,0.0,497.0
+J. Riedewald,Jaïro,Jaïro,Crystal Palace,9,0.0,Knee Injury,16.0,6.0,24.0,0.0,0.0,0.0,0.0,6.0,154.0
+J. Schlupp,Jeffrey,Jeffrey,Crystal Palace,16,21.0,Knock,100.0,115.0,0.0,0.0,0.0,0.0,0.0,3.0,611.0
+J. Tomkins,James,James,Crystal Palace,31,0.0,Calf Muscle Strain,137.0,0.0,55.0,0.0,0.0,0.0,7.0,18.0,1172.0
+J. Ward,Joel,Joel,Crystal Palace,13,0.0,Knock,46.0,54.0,23.0,5.0,0.0,0.0,0.0,5.0,322.0
+L. Milivojević,Luka,Luka,Crystal Palace,5,28.0,Knock,23.0,8.0,0.0,0.0,28.0,23.0,0.0,54.0,61.0
+M. Kelly,Martin,Martin,Crystal Palace,14,0.0,Calf/Shin Injury,52.0,66.0,24.0,0.0,0.0,0.0,0.0,0.0,610.0
+M. Olise,Michael,Michael,Crystal Palace,2,32.0,Back Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+N. Clyne,Nathaniel Edwin,Nathaniel Edwin,Crystal Palace,15,7.0,Knock,75.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,839.0
+N. Ferguson,Nathan,Nathan,Crystal Palace,2,135.0,Calf Muscle Strain,170.0,0.0,0.0,0.0,0.0,28.0,0.0,28.0,305.0
+T. Mitchell,Tyrick,Tyrick,Crystal Palace,4,0.0,Knock,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,85.0
+W. Hughes,Will,Will,Crystal Palace,8,26.0,Hamstring,0.0,45.0,47.0,0.0,0.0,0.0,0.0,24.0,225.0
+W. Zaha,Dazet Wilfried Armel,Dazet Wilfried Armel,Crystal Palace,21,0.0,Knock,60.0,11.0,50.0,2.0,0.0,0.0,10.0,32.0,270.0
+A. Begović,Asmir,Asmir,Everton,5,0.0,Ankle/Foot Injury,0.0,0.0,13.0,0.0,0.0,0.0,0.0,0.0,84.0
+A. Doucouré,Abdoulaye,Abdoulaye,Everton,6,39.0,Ankle/Foot Injury,57.0,0.0,26.0,0.0,15.0,4.0,0.0,25.0,357.0
+A. Iwobi,Alexander Chuka,Alexander Chuka,Everton,9,21.0,Thigh Muscle Strain,0.0,40.0,25.0,0.0,0.0,0.0,0.0,0.0,138.0
+A. Townsend,Andros,Andros,Everton,16,21.0,Ankle/Foot Injury,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,332.0
+Allan,Allan,Allan,Everton,4,11.0,Groin/Pelvis Injury,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0
+André Gomes,André Filipe,André Filipe,Everton,20,72.0,Hamstring,36.0,163.0,95.0,0.0,0.0,0.0,20.0,139.0,506.0
+B. Godfrey,Ben,Ben,Everton,6,35.0,Groin/Pelvis Injury,11.0,44.0,0.0,0.0,0.0,21.0,0.0,21.0,90.0
+C. Tosun,Cenk,Cenk,Everton,6,0.0,Knee Injury,35.0,40.0,0.0,0.0,0.0,0.0,0.0,0.0,440.0
+D. Calvert-Lewin,Dominic,Dominic,Everton,9,104.0,Ankle/Foot Injury,42.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,307.0
+D. Gray,Demarai,Demarai,Everton,7,23.0,Achilles tendonitis,10.0,13.0,29.0,0.0,0.0,0.0,0.0,0.0,96.0
+F. Delph,Fabian,Fabian,Everton,33,86.0,Knock,137.0,94.0,75.0,0.0,0.0,7.0,19.0,85.0,1334.0
+G. Sigurðsson,Gylfi Þór,Gylfi Þór,Everton,9,0.0,Knock,3.0,31.0,0.0,0.0,0.0,0.0,0.0,18.0,155.0
+J. Branthwaite,Jarrad,Jarrad,Everton,1,0.0,Ankle/Foot Injury,44.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,44.0
+J. Gbamin,Jean-Philippe,Jean-Philippe,Everton,7,17.0,Thigh Muscle Strain,46.0,239.0,26.0,0.0,0.0,0.0,0.0,16.0,660.0
+J. Kenny,Jonjoe,Jonjoe,Everton,4,0.0,Ankle Ligaments,29.0,18.0,42.0,0.0,0.0,7.0,0.0,7.0,89.0
+J. Pickford,Jordan,Jordan,Everton,5,5.0,Abdominal Strain,48.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,122.0
+L. Digne,Lucas,Lucas,Everton,13,34.0,Knee Injury,46.0,33.0,20.0,0.0,7.0,0.0,0.0,18.0,184.0
+M. Holgate,Mason,Mason,Everton,6,0.0,Ankle/Foot Injury,49.0,8.0,0.0,24.0,0.0,0.0,0.0,41.0,158.0
+M. Keane,Michael,Michael,Everton,10,5.0,Head Injury,13.0,3.0,35.0,0.0,0.0,0.0,0.0,0.0,196.0
+Richarlison,Richarlison,Richarlison,Everton,14,59.0,Knock,16.0,29.0,45.0,7.0,21.0,0.0,27.0,55.0,150.0
+S. Coleman,Séamus,Séamus,Everton,34,27.0,Hamstring,72.0,124.0,80.0,0.0,0.0,14.0,0.0,102.0,965.0
+S. Rondón,José Salomón,José Salomón,Everton,9,24.0,Hamstring,0.0,0.0,33.0,0.0,0.0,0.0,0.0,14.0,92.0
+T. Davies,Tom,Tom,Everton,5,67.0,Knock,18.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,96.0
+Y. Mina,Yerry Fernando,Yerry Fernando,Everton,14,84.0,Knock,39.0,54.0,136.0,0.0,0.0,0.0,0.0,0.0,374.0
+A. Forshaw,Adam,Adam,Leeds United,4,46.0,Knock,44.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,366.0
+C. Cresswell,Charlie,Charlie,Leeds United,1,2.0,Shoulder Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+D. James,Daniel,Daniel,Leeds United,6,19.0,Knock,22.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+Diego Llorente,Diego Javier,Diego Javier,Leeds United,12,34.0,Groin/Pelvis Injury,126.0,36.0,112.0,0.0,0.0,19.0,0.0,160.0,331.0
+I. Meslier,Illan,Illan,Leeds United,1,0.0,Illness,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0
+J. Shackleton,Jamie,Jamie,Leeds United,5,45.0,Knock,56.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,101.0
+Junior Firpo,Héctor Junior,Héctor Junior,Leeds United,11,18.0,Hamstring,15.0,33.0,83.0,12.0,0.0,3.0,7.0,22.0,186.0
+K. Phillips,Kalvin,Kalvin,Leeds United,5,42.0,Calf/Shin Injury,69.0,0.0,0.0,0.0,10.0,28.0,23.0,94.0,111.0
+L. Ayling,Luke,Luke,Leeds United,1,77.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,14.0,40.0,77.0
+L. Cooper,Liam,Liam,Leeds United,8,25.0,Groin/Pelvis Injury,106.0,11.0,0.0,0.0,21.0,0.0,0.0,98.0,167.0
+M. Klich,Mateusz Andrzej,Mateusz Andrzej,Leeds United,4,17.0,Broken Toe,4.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,45.0
+P. Bamford,Patrick,Patrick,Leeds United,7,102.0,Ankle/Foot Injury,18.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,132.0
+P. Struijk,Pascal,Pascal,Leeds United,2,32.0,Knock,4.0,0.0,0.0,31.0,0.0,0.0,0.0,31.0,36.0
+R. Koch,Robin,Robin,Leeds United,10,124.0,Back Injury,118.0,21.0,52.0,0.0,0.0,0.0,0.0,0.0,315.0
+Raphinha,Raphael,Raphael,Leeds United,8,19.0,Groin/Pelvis Injury,39.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,64.0
+Rodrigo,Rodrigo,Rodrigo,Leeds United,15,35.0,Knock,98.0,43.0,19.0,0.0,0.0,3.0,3.0,147.0,430.0
+T. Roberts,Tyler,Tyler,Leeds United,1,0.0,Illness,16.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0
+A. Lookman,Ademola,Ademola,Leicester City,8,16.0,Ankle/Foot Injury,9.0,13.0,47.0,0.0,0.0,0.0,0.0,0.0,181.0
+Ayoze Pérez,Ayoze,Ayoze,Leicester City,4,16.0,Calf/Shin Injury,28.0,12.0,0.0,26.0,0.0,0.0,0.0,32.0,56.0
+B. Soumaré,Boubakary,Boubakary,Leicester City,1,0.0,Ankle/Foot Injury,0.0,7.0,0.0,0.0,0.0,12.0,0.0,12.0,7.0
+D. Amartey,Daniel,Daniel,Leicester City,5,16.0,Ankle/Foot Injury,75.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,759.0
+D. Ward,Danny,Danny,Leicester City,3,0.0,Knock,0.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,44.0
+F. Benković,Filip,Filip,Leicester City,2,18.0,Groin/Pelvis Injury,35.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,53.0
+H. Barnes,Harvey Lewis,Harvey Lewis,Leicester City,2,7.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,165.0
+H. Choudhury,Hamza,Hamza,Leicester City,1,15.0,Illness,0.0,0.0,0.0,0.0,0.0,7.0,0.0,14.0,15.0
+J. Evans,Jonathan Grant,Jonathan Grant,Leicester City,52,84.0,Ankle/Foot Injury,63.0,6.0,30.0,0.0,3.0,0.0,2.0,58.0,735.0
+J. Justin,James,James,Leicester City,1,0.0,ACL Knee Ligament Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,325.0
+J. Maddison,James,James,Leicester City,14,15.0,Knee Injury,62.0,19.0,30.0,0.0,0.0,0.0,5.0,7.0,198.0
+J. Vardy,Jamie,Jamie,Leicester City,25,5.0,Groin Strain,46.0,24.0,39.0,0.0,0.0,0.0,16.0,51.0,175.0
+J. Vestergaard,Jannik,Jannik,Leicester City,10,43.0,Groin Strain,47.0,32.0,83.0,0.0,0.0,0.0,0.0,0.0,205.0
+K. Iheanacho,Kelechi Promise,Kelechi Promise,Leicester City,7,16.0,Toe Injury,0.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0
+K. Schmeichel,Kasper Peter,Kasper Peter,Leicester City,6,0.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,258.0
+M. Albrighton,Marc,Marc,Leicester City,11,29.0,Groin Strain,0.0,12.0,69.0,0.0,0.0,0.0,0.0,13.0,466.0
+N. Mendy,Nampalys,Nampalys,Leicester City,9,0.0,Ankle/Foot Injury,6.0,44.0,18.0,0.0,0.0,0.0,0.0,24.0,496.0
+P. Daka,Patson,Patson,Leicester City,1,7.0,Thigh Muscle Strain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+R. Bertrand,Ryan,Ryan,Leicester City,23,54.0,Knee Injury,62.0,26.0,83.0,0.0,3.0,11.0,14.0,49.0,540.0
+Ricardo Pereira,Ricardo Domingos,Ricardo Domingos,Leicester City,10,43.0,Calf/Shin Injury,20.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,494.0
+T. Castagne,Timothy,Timothy,Leicester City,4,1.0,Thigh Muscle Strain,72.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,143.0
+V. Daley-Campbell,Vontae,Vontae,Leicester City,1,16.0,Illness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0
+W. Fofana,Wesley,Wesley,Leicester City,6,150.0,Knee Injury,45.0,75.0,0.0,0.0,0.0,12.0,0.0,12.0,270.0
+W. Ndidi,Onyinye Wilfred,Onyinye Wilfred,Leicester City,9,33.0,Hamstring,86.0,47.0,2.0,0.0,0.0,0.0,0.0,17.0,190.0
+Y. Tielemans,Youri,Youri,Leicester City,3,21.0,Back Injury,0.0,0.0,0.0,0.0,0.0,0.0,4.0,14.0,65.0
+Ç. Söyüncü,Çağlar,Çağlar,Leicester City,4,21.0,Groin/Pelvis Injury,95.0,0.0,17.0,0.0,0.0,14.0,0.0,14.0,133.0
+A. Oxlade-Chamberlain,Alex,Alex,Liverpool,20,0.0,Hamstring,121.0,21.0,5.0,0.0,0.0,0.0,0.0,0.0,1001.0
+A. Robertson,Andrew,Andrew,Liverpool,14,21.0,Ankle/Foot Injury,4.0,11.0,8.0,17.0,0.0,0.0,0.0,23.0,135.0
+Adrián,Adrián,Adrián,Liverpool,3,39.0,Ankle/Foot Injury,0.0,1.0,0.0,0.0,0.0,0.0,0.0,35.0,70.0
+Alisson,Alisson Ramsés,Alisson Ramsés,Liverpool,5,0.0,Calf Muscle Strain,39.0,146.0,0.0,0.0,0.0,4.0,0.0,4.0,185.0
+C. Jones,Curtis,Curtis,Liverpool,4,82.0,Head Injury,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,96.0
+C. Kelleher,Caoimhin,Caoimhin,Liverpool,1,0.0,Knock,83.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,83.0
+D. Origi,Divock,Divock,Liverpool,14,27.0,Ankle/Foot Injury,61.0,12.0,24.0,0.0,0.0,0.0,0.0,0.0,210.0
+Diogo Jota,Diogo José,Diogo José,Liverpool,10,5.0,Knock,85.0,45.0,55.0,0.0,0.0,0.0,0.0,0.0,190.0
+Fabinho,Fábio Henrique,Fábio Henrique,Liverpool,11,30.0,Knock,53.0,50.0,22.0,0.0,0.0,0.0,0.0,64.0,181.0
+H. Elliott,Harvey,Harvey,Liverpool,2,125.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,125.0
+I. Konaté,Ibrahima,Ibrahima,Liverpool,6,0.0,Hip/Thigh Injury,49.0,198.0,0.0,0.0,0.0,0.0,8.0,8.0,330.0
+J. Gomez,Joe,Joe,Liverpool,10,40.0,Ankle/Foot Injury,258.0,1.0,129.0,0.0,0.0,0.0,0.0,0.0,879.0
+J. Henderson,Jordan,Jordan,Liverpool,28,20.0,Ankle/Foot Injury,102.0,20.0,42.0,0.0,0.0,0.0,8.0,30.0,607.0
+J. Matip,Joël Andre,Joël Andre,Liverpool,17,0.0,Knock,250.0,143.0,30.0,0.0,0.0,0.0,0.0,0.0,583.0
+J. Milner,James Philip,James Philip,Liverpool,31,59.0,Hamstring,57.0,77.0,47.0,0.0,0.0,0.0,0.0,24.0,370.0
+K. Tsimikas,Konstantinos,Konstantinos,Liverpool,3,0.0,Hip/Thigh Injury,94.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,94.0
+L. Karius,Loris,Loris,Liverpool,3,0.0,Broken Hand,14.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0
+Mohamed Salah,Mohamed,Mohamed,Liverpool,9,0.0,Ankle/Foot Injury,11.0,27.0,12.0,0.0,0.0,0.0,0.0,0.0,87.0
+N. Keïta,Naby Laye,Naby Laye,Liverpool,17,52.0,Groin/Pelvis Injury,120.0,72.0,74.0,0.0,0.0,0.0,0.0,0.0,318.0
+N. Phillips,Nathaniel,Nathaniel,Liverpool,3,37.0,Back Injury,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,56.0
+N. Williams,Neco,Neco,Liverpool,2,48.0,Ankle/Foot Injury,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,50.0
+Roberto Firmino,Roberto Firmino,Roberto Firmino,Liverpool,12,68.0,Knock,27.0,0.0,11.0,0.0,0.0,0.0,0.0,0.0,184.0
+S. Mané,Sadio,Sadio,Liverpool,18,0.0,Knock,20.0,24.0,22.0,0.0,0.0,0.0,0.0,27.0,274.0
+T. Alexander-Arnold,Trent,Trent,Liverpool,10,18.0,Knock,75.0,4.0,55.0,0.0,0.0,0.0,0.0,0.0,156.0
+T. Minamino,Takumi,Takumi,Liverpool,2,11.0,Thigh Muscle Strain,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+Thiago Alcântara,Thiago,Thiago,Liverpool,13,67.0,Calf/Shin Injury,97.0,38.0,35.0,0.0,0.0,3.0,0.0,3.0,373.0
+V. van Dijk,Virgil,Virgil,Liverpool,13,13.0,Ankle/Foot Injury,283.0,3.0,28.0,0.0,0.0,0.0,0.0,15.0,567.0
+Aymeric Laporte,Aymeric,Aymeric,Manchester City,19,17.0,Knock,41.0,275.0,16.0,11.0,0.0,0.0,0.0,90.0,564.0
+B. Mendy,Benjamin,Benjamin,Manchester City,16,0.0,Hip/Thigh Injury,39.0,43.0,176.0,270.0,0.0,0.0,0.0,335.0,760.0
+Bernardo Silva,Bernardo,Bernardo,Manchester City,6,3.0,Knock,19.0,0.0,17.0,0.0,0.0,11.0,0.0,23.0,62.0
+C. Palmer,Cole,Cole,Manchester City,1,0.0,Virus,19.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+Ederson Moraes,Ederson,Ederson,Manchester City,6,1.0,Knock,16.0,28.0,0.0,0.0,0.0,2.0,0.0,2.0,47.0
+Fernandinho,Fernando Luiz,Fernando Luiz,Manchester City,15,0.0,Knock,41.0,9.0,94.0,0.0,0.0,10.0,0.0,75.0,204.0
+Ferran Torres,Ferran,Ferran,Manchester City,3,80.0,Hamstring,11.0,4.0,0.0,0.0,0.0,0.0,8.0,8.0,95.0
+Gabriel Jesus,Gabriel Fernando,Gabriel Fernando,Manchester City,12,6.0,Knock,53.0,32.0,23.0,0.0,0.0,0.0,0.0,0.0,250.0
+J. Grealish,Jack,Jack,Manchester City,8,17.0,Ankle/Foot Injury,81.0,28.0,0.0,0.0,0.0,0.0,0.0,27.0,199.0
+J. Stones,John,John,Manchester City,22,26.0,Knock,10.0,97.0,38.0,0.0,0.0,0.0,0.0,0.0,407.0
+João Cancelo,João Pedro,João Pedro,Manchester City,4,0.0,Foot Injury,16.0,0.0,0.0,3.0,5.0,0.0,0.0,56.0,109.0
+K. De Bruyne,Kevin,Kevin,Manchester City,19,48.0,Hamstring,63.0,23.0,159.0,0.0,0.0,0.0,0.0,0.0,377.0
+K. Walker,Kyle,Kyle,Manchester City,13,15.0,Knock,15.0,18.0,6.0,0.0,0.0,0.0,0.0,12.0,355.0
+N. Aké,Nathan,Nathan,Manchester City,11,2.0,Hamstring,105.0,64.0,7.0,0.0,0.0,0.0,0.0,28.0,218.0
+O. Zinchenko,Oleksandr,Oleksandr,Manchester City,10,32.0,Knock,43.0,58.0,26.0,0.0,0.0,7.0,0.0,7.0,192.0
+P. Foden,Philip,Philip,Manchester City,7,17.0,Ankle/Foot Injury,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,139.0
+R. Mahrez,Riyad,Riyad,Manchester City,1,0.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+R. Sterling,Raheem,Raheem,Manchester City,12,1.0,Knock,10.0,22.0,12.0,0.0,0.0,0.0,0.0,14.0,233.0
+Rodri,Rodrigo,Rodrigo,Manchester City,5,19.0,Knock,1.0,18.0,0.0,0.0,0.0,0.0,14.0,21.0,38.0
+Rúben Dias,Rúben,Rúben,Manchester City,1,0.0,Knock,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
+S. Carson,Scott,Scott,Manchester City,1,0.0,Virus,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,37.0
+Z. Steffen,Zack,Zack,Manchester City,3,14.0,Knee Injury,0.0,80.0,0.0,0.0,0.0,0.0,0.0,0.0,240.0
+İ. Gündoğan,İlkay,İlkay,Manchester City,15,30.0,Knock,37.0,5.0,46.0,0.0,0.0,4.0,0.0,4.0,378.0
+A. Diallo,Amad Diallo,Amad Diallo,Manchester United,1,47.0,Thigh Muscle Strain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.0
+A. Martial,Anthony,Anthony,Manchester United,24,13.0,Knock,10.0,60.0,69.0,0.0,28.0,0.0,0.0,28.0,399.0
+A. Wan-Bissaka,Aaron,Aaron,Manchester United,9,5.0,Knock,10.0,39.0,43.0,0.0,0.0,0.0,11.0,11.0,97.0
+Alex Telles,Alex Nicolao,Alex Nicolao,Manchester United,2,0.0,Ankle/Foot Injury,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,90.0
+Bruno Fernandes,Bruno Miguel,Bruno Miguel,Manchester United,1,1.0,Knock,0.0,0.0,0.0,5.0,0.0,0.0,0.0,5.0,1.0
+Cristiano Ronaldo,Cristiano Ronaldo,Cristiano Ronaldo,Manchester United,12,0.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0,142.0
+D. Henderson,Dean,Dean,Manchester United,1,0.0,Hip/Thigh Injury,15.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,15.0
+D. van de Beek,Donny,Donny,Manchester United,4,0.0,Knock,45.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,141.0
+David de Gea,David,David,Manchester United,7,0.0,Knee Injury,34.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,70.0
+Diogo Dalot,José Diogo,José Diogo,Manchester United,6,0.0,Knock,0.0,127.0,50.0,0.0,0.0,0.0,0.0,0.0,258.0
+E. Bailly,Eric Bertrand,Eric Bertrand,Manchester United,24,28.0,Knock,81.0,5.0,132.0,0.0,0.0,0.0,0.0,21.0,620.0
+E. Cavani,Edinson Roberto,Edinson Roberto,Manchester United,23,73.0,Knock,53.0,83.0,75.0,0.0,10.0,0.0,0.0,23.0,375.0
+Fred,Frederico,Frederico,Manchester United,2,4.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0
+H. Maguire,Harry,Harry,Manchester United,9,19.0,Ankle/Foot Injury,25.0,8.0,42.0,8.0,0.0,0.0,14.0,36.0,117.0
+J. Lingard,Jesse,Jesse,Manchester United,17,14.0,Hamstring,60.0,35.0,74.0,0.0,0.0,0.0,0.0,15.0,384.0
+J. Sancho,Jadon,Jadon,Manchester United,8,6.0,Knock,58.0,3.0,2.0,0.0,0.0,0.0,0.0,0.0,69.0
+L. Grant,Lee,Lee,Manchester United,2,0.0,Knock,0.0,137.0,0.0,0.0,0.0,0.0,0.0,0.0,186.0
+L. Shaw,Luke,Luke,Manchester United,29,36.0,Ankle/Foot Injury,32.0,89.0,56.0,0.0,0.0,0.0,31.0,34.0,915.0
+M. Greenwood,Mason,Mason,Manchester United,10,7.0,Knock,36.0,18.0,46.0,0.0,0.0,0.0,0.0,0.0,107.0
+M. Rashford,Marcus,Marcus,Manchester United,16,1.0,Ankle/Foot Injury,31.0,147.0,21.0,0.0,0.0,0.0,24.0,24.0,263.0
+Mata,Juan Manuel,Juan Manuel,Manchester United,3,0.0,Groin/Pelvis Injury,43.0,0.0,19.0,0.0,0.0,0.0,0.0,7.0,91.0
+N. Matić,Nemanja,Nemanja,Manchester United,12,12.0,Knock,0.0,52.0,52.0,0.0,0.0,2.0,7.0,28.0,196.0
+P. Jones,Phil,Phil,Manchester United,34,0.0,Knock,0.0,23.0,67.0,0.0,0.0,0.0,0.0,3.0,1440.0
+P. Pogba,Paul,Paul,Manchester United,20,68.0,Knock,72.0,276.0,27.0,27.0,0.0,0.0,0.0,48.0,572.0
+R. Varane,Raphaël,Raphaël,Manchester United,20,67.0,Hamstring,32.0,6.0,11.0,0.0,0.0,0.0,7.0,15.0,461.0
+S. McTominay,Scott,Scott,Manchester United,13,33.0,Knock,22.0,80.0,57.0,0.0,0.0,0.0,0.0,0.0,196.0
+T. Heaton,Tom,Tom,Manchester United,7,0.0,Calf Muscle Strain,32.0,14.0,0.0,0.0,0.0,0.0,0.0,0.0,647.0
+V. Lindelöf,Victor Jörgen,Victor Jörgen,Manchester United,11,12.0,Back Injury,19.0,14.0,20.0,0.0,0.0,0.0,0.0,0.0,65.0
+A. Saint-Maximin,Allan,Allan,Newcastle United,24,6.0,Thigh Muscle Strain,112.0,89.0,33.0,0.0,0.0,0.0,0.0,7.0,367.0
+C. Clark,Ciaran,Ciaran,Newcastle United,20,7.0,Ankle/Foot Injury,43.0,32.0,91.0,3.0,0.0,0.0,0.0,23.0,619.0
+C. Wilson,Callum,Callum,Newcastle United,14,54.0,Hamstring,110.0,12.0,70.0,0.0,0.0,10.0,0.0,17.0,719.0
+D. Gayle,Dwight,Dwight,Newcastle United,15,8.0,Hamstring,97.0,156.0,0.0,0.0,0.0,0.0,0.0,91.0,518.0
+E. Anderson,Elliott,Elliott,Newcastle United,2,6.0,Groin/Pelvis Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,150.0
+E. Krafth,Emil Henry Kristoffer,Emil Henry Kristoffer,Newcastle United,6,3.0,Ankle/Foot Injury,6.0,149.0,0.0,0.0,0.0,0.0,0.0,0.0,210.0
+F. Fernández,Federico,Federico,Newcastle United,13,41.0,Calf/Shin Injury,88.0,0.0,35.0,0.0,0.0,0.0,0.0,13.0,267.0
+F. Schär,Fabian Lukas,Fabian Lukas,Newcastle United,16,8.0,Knock,111.0,57.0,23.0,0.0,17.0,0.0,4.0,49.0,280.0
+F. Woodman,Freddie,Freddie,Newcastle United,1,54.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,54.0
+I. Hayden,Isaac,Isaac,Newcastle United,10,19.0,Knee Injury,20.0,19.0,20.0,14.0,8.0,28.0,16.0,73.0,250.0
+J. Hendrick,Jeff Patrick,Jeff Patrick,Newcastle United,2,0.0,Thigh Muscle Strain,6.0,0.0,0.0,0.0,9.0,6.0,0.0,40.0,35.0
+J. Lascelles,Jamaal,Jamaal,Newcastle United,20,32.0,Ankle/Foot Injury,149.0,89.0,77.0,4.0,0.0,0.0,0.0,18.0,413.0
+J. Lewis,Jamal,Jamal,Newcastle United,7,54.0,Knee Injury,6.0,22.0,0.0,0.0,0.0,0.0,0.0,0.0,82.0
+J. Shelvey,Jonjo,Jonjo,Newcastle United,24,64.0,Hamstring,51.0,75.0,129.0,6.0,0.0,0.0,0.0,152.0,490.0
+J. Willock,Joseph,Joseph,Newcastle United,4,20.0,Calf/Shin Injury,2.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0
+Javi Manquillo,Javier,Javier,Newcastle United,10,3.0,Knock,54.0,59.0,25.0,6.0,0.0,0.0,0.0,6.0,225.0
+Joelinton,Joelinton Cassio,Joelinton Cassio,Newcastle United,9,0.0,Ankle/Foot Injury,14.0,23.0,55.0,0.0,0.0,0.0,0.0,0.0,92.0
+K. Darlow,Karl,Karl,Newcastle United,10,7.0,Ankle/Foot Injury,55.0,11.0,106.0,0.0,0.0,0.0,0.0,0.0,359.0
+M. Almirón,Miguel Ángel,Miguel Ángel,Newcastle United,8,0.0,Hamstring,24.0,30.0,40.0,0.0,0.0,0.0,0.0,0.0,94.0
+M. Dúbravka,Martin,Martin,Newcastle United,5,0.0,Ankle/Foot Injury,133.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,242.0
+M. Gillespie,Mark,Mark,Newcastle United,0,0.0,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,0.0
+M. Ritchie,Matt,Matt,Newcastle United,11,7.0,Knock,65.0,135.0,18.0,4.0,0.0,0.0,5.0,16.0,254.0
+P. Dummett,Paul,Paul,Newcastle United,19,0.0,Hamstring,111.0,177.0,96.0,0.0,0.0,0.0,0.0,0.0,904.0
+R. Fraser,Ryan,Ryan,Newcastle United,21,17.0,Knock,123.0,28.0,28.0,0.0,6.0,0.0,0.0,6.0,240.0
+S. Longstaff,Sean,Sean,Newcastle United,4,0.0,Ankle/Foot Injury,0.0,161.0,89.0,0.0,0.0,29.0,0.0,29.0,250.0
+A. Idah,Adam Uche,Adam Uche,Norwich City,1,0.0,Back Injury,0.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,34.0
+A. Omobamidele,Andrew Abiola,Andrew Abiola,Norwich City,2,28.0,Back Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+B. Gibson,Ben,Ben,Norwich City,3,0.0,Groin/Pelvis Injury,0.0,188.0,89.0,8.0,0.0,0.0,0.0,34.0,277.0
+B. Gilmour,Billy,Billy,Norwich City,3,5.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,190.0
+B. Mumba,Bali,Bali,Norwich City,1,16.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0
+B. Williams,Brandon,Brandon,Norwich City,2,0.0,Head Injury,22.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,26.0
+C. Tzolis,Christos,Christos,Norwich City,2,29.0,Calf/Shin Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+C. Zimmermann,Christoph,Christoph,Norwich City,5,127.0,Ankle/Foot Injury,0.0,130.0,0.0,0.0,0.0,0.0,0.0,0.0,289.0
+D. Giannoulis,Dimitris,Dimitris,Norwich City,1,10.0,Back Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+G. Hanley,Grant,Grant,Norwich City,10,39.0,Groin/Pelvis Injury,0.0,106.0,0.0,0.0,0.0,0.0,0.0,55.0,395.0
+J. Sargent,Joshua Thomas,Joshua Thomas,Norwich City,4,14.0,Back Injury,0.0,30.0,0.0,0.0,15.0,0.0,0.0,15.0,44.0
+K. Dowell,Kieran,Kieran,Norwich City,1,7.0,Illness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+K. McLean,Kenny,Kenny,Norwich City,1,0.0,Back Injury,0.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0
+L. Rupp,Lukas,Lukas,Norwich City,3,22.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,507.0
+M. Aarons,Maximillian James,Maximillian James,Norwich City,1,0.0,Ankle/Foot Injury,0.0,16.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0
+M. Normann,Mathias,Mathias,Norwich City,2,41.0,Groin/Pelvis Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,41.0
+M. Rashica,Milot,Milot,Norwich City,12,37.0,Ankle/Foot Injury,93.0,39.0,0.0,0.0,0.0,0.0,0.0,0.0,214.0
+O. Kabak,Ozan Muhammed,Ozan Muhammed,Norwich City,9,18.0,Knock,30.0,92.0,0.0,0.0,38.0,0.0,0.0,38.0,198.0
+P. Lees Melou,Pierre,Pierre,Norwich City,6,5.0,Ankle Ligaments,35.0,0.0,61.0,0.0,6.0,5.0,4.0,40.0,146.0
+P. Płacheta,Przemysław,Przemysław,Norwich City,1,63.0,Virus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0
+S. Byram,Sam,Sam,Norwich City,9,49.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0,776.0
+T. Cantwell,Todd,Todd,Norwich City,6,37.0,Ankle/Foot Injury,0.0,18.0,0.0,0.0,0.0,0.0,0.0,0.0,55.0
+T. Krul,Tim,Tim,Norwich City,11,9.0,Ankle/Foot Injury,0.0,38.0,0.0,0.0,0.0,0.0,0.0,0.0,539.0
+T. Pukki,Teemu Eino Antero,Teemu Eino Antero,Norwich City,2,0.0,Ankle/Foot Injury,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0
+A. Armstrong,Adam,Adam,Southampton,1,0.0,Calf Muscle Strain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,29.0
+A. Broja,Armando,Armando,Southampton,2,7.0,Ankle Fracture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+A. McCarthy,Alex,Alex,Southampton,8,25.0,Hamstring,16.0,9.0,52.0,0.0,0.0,0.0,0.0,0.0,527.0
+C. Adams,Che,Che,Southampton,4,24.0,Groin/Pelvis Injury,28.0,0.0,0.0,0.0,0.0,0.0,0.0,33.0,52.0
+F. Forster,Fraser,Fraser,Southampton,3,21.0,Abdominal Strain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,321.0
+I. Diallo,Ibrahima,Ibrahima,Southampton,4,5.0,Knock,35.0,44.0,0.0,0.0,0.0,0.0,0.0,0.0,84.0
+J. Bednarek,Jan Kacper,Jan Kacper,Southampton,5,7.0,Calf/Shin Injury,7.0,5.0,0.0,0.0,0.0,0.0,3.0,3.0,24.0
+J. Stephens,Jack,Jack,Southampton,3,83.0,Knee Injury,0.0,0.0,12.0,0.0,0.0,0.0,0.0,30.0,95.0
+J. Ward-Prowse,James,James,Southampton,7,1.0,Knee Injury,20.0,8.0,0.0,25.0,0.0,0.0,0.0,32.0,130.0
+K. Walker-Peters,Kyle,Kyle,Southampton,6,0.0,Hamstring,38.0,34.0,0.0,0.0,0.0,0.0,0.0,0.0,103.0
+Lyanco,Lyanco Evangelista,Lyanco Evangelista,Southampton,1,8.0,Virus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0
+M. Djenepo,Moussa,Moussa,Southampton,10,26.0,Knock,52.0,99.0,0.0,0.0,0.0,113.0,15.0,128.0,177.0
+M. Elyounoussi,Mohamed Amine,Mohamed Amine,Southampton,5,13.0,Hamstring,0.0,0.0,29.0,0.0,0.0,0.0,0.0,0.0,42.0
+M. Salisu,Mohamed,Mohamed,Southampton,4,0.0,Hamstring,51.0,20.0,0.0,12.0,0.0,0.0,0.0,12.0,225.0
+N. Redmond,Nathan,Nathan,Southampton,11,0.0,Ankle/Foot Injury,80.0,128.0,4.0,0.0,0.0,0.0,0.0,3.0,272.0
+N. Tella,Nathan,Nathan,Southampton,3,1.0,Knock,30.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,63.0
+Oriol Romeu,Oriol,Oriol,Southampton,7,0.0,Calf/Shin Injury,121.0,0.0,0.0,7.0,7.0,0.0,0.0,40.0,396.0
+R. Perraud,Romain,Romain,Southampton,1,0.0,Groin/Pelvis Injury,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0
+S. Armstrong,Stuart,Stuart,Southampton,15,84.0,Calf/Shin Injury,50.0,58.0,37.0,0.0,0.0,0.0,0.0,0.0,229.0
+S. Long,Shane Patrick,Shane Patrick,Southampton,28,16.0,Knee Injury,0.0,17.0,93.0,0.0,0.0,0.0,0.0,0.0,457.0
+T. Walcott,Theo,Theo,Southampton,28,22.0,Calf Muscle Strain,77.0,95.0,17.0,0.0,0.0,0.0,0.0,0.0,866.0
+V. Livramento,Valentino,Valentino,Southampton,1,0.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+W. Caballero,Wilfredo Daniel,Wilfredo Daniel,Southampton,1,0.0,Sprained Ankle,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0
+W. Smallbone,William Anthony Patrick,William Anthony Patrick,Southampton,3,0.0,Knee Injury,46.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,315.0
+Y. Valery,Yan,Yan,Southampton,4,0.0,Knock,13.0,101.0,8.0,0.0,0.0,0.0,0.0,0.0,122.0
+B. Davies,Benjamin Thomas,Benjamin Thomas,Tottenham Hotspur,10,0.0,Ankle/Foot Injury,70.0,91.0,26.0,0.0,0.0,0.0,0.0,5.0,303.0
+Bryan Gil,Bryan,Bryan,Tottenham Hotspur,6,45.0,Knock,31.0,14.0,0.0,0.0,7.0,0.0,0.0,7.0,90.0
+C. Romero,Cristian Gabriel,Cristian Gabriel,Tottenham Hotspur,4,65.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,65.0
+D. Alli,Bamidele,Bamidele,Tottenham Hotspur,15,0.0,Hamstring,18.0,49.0,96.0,0.0,0.0,2.0,0.0,29.0,207.0
+D. Scarlett,Dane Pharrell,Dane Pharrell,Tottenham Hotspur,2,42.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,42.0
+D. Sánchez,Davinson,Davinson,Tottenham Hotspur,4,11.0,Knock,0.0,5.0,71.0,0.0,0.0,0.0,0.0,14.0,87.0
+E. Dier,Eric,Eric,Tottenham Hotspur,13,0.0,Thigh Muscle Strain,12.0,18.0,111.0,0.0,0.0,12.0,0.0,25.0,167.0
+Emerson,Emerson Aparecido,Emerson Aparecido,Tottenham Hotspur,2,15.0,Knock,14.0,0.0,0.0,0.0,6.0,10.0,0.0,16.0,29.0
+G. Lo Celso,Giovani,Giovani,Tottenham Hotspur,9,45.0,Hamstring,123.0,56.0,0.0,0.0,0.0,0.0,10.0,10.0,224.0
+H. Kane,Harry,Harry,Tottenham Hotspur,23,13.0,Ankle/Foot Injury,21.0,150.0,90.0,0.0,0.0,0.0,0.0,0.0,554.0
+H. Lloris,Hugo,Hugo,Tottenham Hotspur,16,0.0,Knock,11.0,119.0,37.0,0.0,0.0,0.0,0.0,0.0,275.0
+H. Winks,Harry,Harry,Tottenham Hotspur,10,0.0,Ankle/Foot Injury,6.0,8.0,83.0,0.0,0.0,2.0,0.0,2.0,430.0
+J. Rodon,Joe,Joe,Tottenham Hotspur,1,32.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,32.0
+J. Tanganga,Japhet,Japhet,Tottenham Hotspur,5,0.0,Ankle Ligaments,86.0,26.0,0.0,3.0,0.0,0.0,0.0,3.0,198.0
+Lucas Moura,Lucas,Lucas,Tottenham Hotspur,14,20.0,Knock,8.0,2.0,24.0,0.0,0.0,0.0,0.0,6.0,186.0
+M. Doherty,Matthew James,Matthew James,Tottenham Hotspur,8,7.0,Knock,42.0,21.0,21.0,0.0,0.0,0.0,0.0,20.0,91.0
+O. Skipp,Oliver,Oliver,Tottenham Hotspur,2,14.0,Groin/Pelvis Injury,0.0,0.0,0.0,14.0,0.0,0.0,0.0,14.0,14.0
+P. Højbjerg,Pierre-Emile,Pierre-Emile,Tottenham Hotspur,5,12.0,Ankle/Foot Injury,0.0,12.0,16.0,0.0,0.0,0.0,8.0,8.0,45.0
+R. Sessegnon,Kouassi Ryan,Kouassi Ryan,Tottenham Hotspur,6,72.0,Knock,42.0,86.0,11.0,0.0,0.0,0.0,0.0,0.0,211.0
+Reguilón,Sergio,Sergio,Tottenham Hotspur,8,12.0,Knock,46.0,0.0,30.0,0.0,0.0,13.0,0.0,13.0,88.0
+S. Bergwijn,Steven Charles,Steven Charles,Tottenham Hotspur,9,36.0,Ankle/Foot Injury,20.0,115.0,12.0,0.0,0.0,0.0,0.0,7.0,234.0
+Son Heung-Min,Heung-Min,Heung-Min,Tottenham Hotspur,8,24.0,Broken Arm,22.0,43.0,1.0,0.0,0.0,11.0,0.0,116.0,186.0
+T. Ndombèlé,Tanguy,Tanguy,Tottenham Hotspur,10,20.0,Knock,14.0,85.0,17.0,0.0,0.0,0.0,0.0,0.0,146.0
+A. Masina,Adam,Adam,Watford,4,25.0,Knock,0.0,13.0,0.0,0.0,0.0,0.0,0.0,0.0,98.0
+B. Foster,Ben,Ben,Watford,8,78.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,566.0
+C. Cathcart,Craig George,Craig George,Watford,11,0.0,Knee Injury,0.0,31.0,0.0,0.0,0.0,0.0,0.0,0.0,484.0
+C. Kabasele,Christian,Christian,Watford,9,73.0,Knock,0.0,11.0,22.0,0.0,0.0,25.0,14.0,45.0,362.0
+D. Bachmann,Daniel,Daniel,Watford,2,12.0,Hamstring,0.0,28.0,0.0,0.0,0.0,0.0,0.0,0.0,40.0
+D. Gosling,Dan,Dan,Watford,13,37.0,Knee Injury,0.0,0.0,72.0,0.0,0.0,0.0,0.0,16.0,975.0
+D. Rose,Danny,Danny,Watford,29,22.0,Ankle/Foot Injury,0.0,37.0,79.0,0.0,0.0,7.0,0.0,139.0,795.0
+E. Dennis,Emmanuel Bonaventure,Emmanuel Bonaventure,Watford,3,6.0,Ankle/Foot Injury,40.0,0.0,0.0,7.0,0.0,7.0,14.0,28.0,46.0
+F. Sierralta,Francisco Andrés,Francisco Andrés,Watford,2,71.0,Hamstring,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,71.0
+I. Louza,Imran,Imran,Watford,0,0.0,,0.0,0.0,0.0,0.0,28.0,0.0,0.0,28.0,0.0
+I. Sarr,Ismaïla,Ismaïla,Watford,8,43.0,Hamstring,0.0,57.0,0.0,0.0,0.0,0.0,2.0,5.0,257.0
+J. Hernández,Juan Camilo,Juan Camilo,Watford,4,0.0,Hamstring,99.0,100.0,9.0,0.0,23.0,3.0,8.0,40.0,208.0
+J. King,Joshua Christian,Joshua Christian,Watford,27,9.0,Hamstring,9.0,173.0,43.0,0.0,0.0,0.0,0.0,0.0,367.0
+J. Kucka,Juraj,Juraj,Watford,1,13.0,Thigh Muscle Strain,0.0,0.0,0.0,13.0,0.0,0.0,0.0,13.0,13.0
+J. Ngakia,Jeremy,Jeremy,Watford,1,19.0,Illness,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,19.0
+João Pedro,João Pedro,João Pedro,Watford,1,43.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,43.0
+K. Baah,Kwadwo,Kwadwo,Watford,1,103.0,Ankle/Foot Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,103.0
+K. Sema,Ken Nlata,Ken Nlata,Watford,1,39.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,39.0
+Kiko Femenía,Francisco,Francisco,Watford,14,30.0,Knock,0.0,60.0,53.0,0.0,0.0,0.0,0.0,20.0,259.0
+M. Sissoko,Moussa,Moussa,Watford,12,0.0,Hamstring,0.0,151.0,54.0,0.0,0.0,2.0,0.0,36.0,347.0
+N. N'Koulou,Nicolas,Nicolas,Watford,6,52.0,Knee Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,118.0
+O. Etebo,Oghenekaro Peter,Oghenekaro Peter,Watford,9,161.0,Hamstring,33.0,12.0,0.0,0.0,0.0,0.0,17.0,17.0,307.0
+O. Tufan,Ozan,Ozan,Watford,2,1.0,Knock,11.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0
+R. Elliot,Rob,Rob,Watford,8,0.0,Thigh Muscle Strain,0.0,0.0,213.0,0.0,0.0,0.0,0.0,7.0,489.0
+T. Cleverley,Tom,Tom,Watford,20,5.0,Ankle/Foot Injury,0.0,115.0,40.0,0.0,0.0,0.0,0.0,10.0,759.0
+W. Troost-Ekong,William Paul,William Paul,Watford,2,0.0,Groin Strain,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,14.0
+A. Areola,Alphonse,Alphonse,West Ham United,5,0.0,Abdominal Strain,0.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,72.0
+A. Cresswell,Aaron,Aaron,West Ham United,26,17.0,Knock,33.0,35.0,87.0,0.0,0.0,0.0,0.0,29.0,364.0
+A. Král,Alex,Alex,West Ham United,1,14.0,Virus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0
+A. Masuaku,Arthur,Arthur,West Ham United,12,0.0,Knee Injury,119.0,24.0,40.0,0.0,0.0,6.0,0.0,56.0,534.0
+A. Ogbonna,Angelo,Angelo,West Ham United,12,57.0,Knee Injury,91.0,12.0,0.0,0.0,0.0,0.0,0.0,0.0,315.0
+A. Yarmolenko,Andrii,Andrii,West Ham United,6,9.0,Achilles tendonitis,89.0,77.0,222.0,0.0,0.0,0.0,0.0,0.0,397.0
+B. Johnson,Benjamin,Benjamin,West Ham United,2,20.0,Calf/Shin Injury,0.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,27.0
+C. Dawson,Craig,Craig,West Ham United,7,0.0,Head Injury,0.0,19.0,0.0,0.0,7.0,0.0,0.0,24.0,141.0
+D. Martin,David Edward,David Edward,West Ham United,1,0.0,Thigh Muscle Strain,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,25.0
+D. Randolph,Darren,Darren,West Ham United,4,0.0,Groin Strain,99.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,109.0
+D. Rice,Declan,Declan,West Ham United,3,9.0,Knee Injury,42.0,0.0,13.0,2.0,0.0,0.0,0.0,2.0,64.0
+I. Diop,Issa,Issa,West Ham United,7,0.0,Back Injury,41.0,0.0,0.0,0.0,0.0,14.0,0.0,49.0,117.0
+J. Bowen,Jarrod,Jarrod,West Ham United,1,0.0,Knock,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+K. Zouma,Kurt Happy,Kurt Happy,West Ham United,14,29.0,Knee Injury,5.0,0.0,0.0,2.0,0.0,0.0,17.0,87.0,367.0
+M. Antonio,Michail,Michail,West Ham United,21,0.0,Hamstring,104.0,112.0,5.0,3.0,0.0,0.0,0.0,13.0,528.0
+M. Lanzini,Manuel,Manuel,West Ham United,16,1.0,Thigh Muscle Strain,55.0,55.0,19.0,0.0,0.0,0.0,0.0,7.0,632.0
+M. Noble,Mark,Mark,West Ham United,24,0.0,Ankle/Foot Injury,63.0,37.0,11.0,0.0,0.0,0.0,14.0,410.0,347.0
+N. Vlašić,Nikola,Nikola,West Ham United,1,9.0,Knock,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0
+Pablo Fornals,Pablo,Pablo,West Ham United,4,7.0,Broken Finger,25.0,0.0,0.0,0.0,0.0,0.0,8.0,14.0,53.0
+R. Fredericks,Ryan,Ryan,West Ham United,12,45.0,Groin/Pelvis Injury,98.0,146.0,87.0,0.0,0.0,12.0,0.0,26.0,376.0
+S. Benrahma,Mohamed Saïd,Mohamed Saïd,West Ham United,2,0.0,Knock,14.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,53.0
+T. Souček,Tomáš,Tomáš,West Ham United,1,0.0,Groin Strain,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0
+V. Coufal,Vladimír,Vladimír,West Ham United,1,9.0,Groin/Pelvis Injury,0.0,0.0,0.0,7.0,0.0,0.0,0.0,7.0,9.0
+W. Reid,Winston Wiremu,Winston Wiremu,West Ham United,27,64.0,Hamstring,0.0,76.0,0.0,0.0,0.0,0.0,0.0,21.0,1067.0
+Ł. Fabiański,Łukasz,Łukasz,West Ham United,10,0.0,Thigh Muscle Strain,16.0,106.0,4.0,0.0,0.0,0.0,0.0,7.0,523.0
+Adama Traoré,Adama,Adama,Wolverhampton …,11,0.0,Ankle/Foot Injury,5.0,30.0,2.0,0.0,0.0,0.0,0.0,118.0,185.0
+Bruno Jordão,Bruno André,Bruno André,Wolverhampton …,1,0.0,Ankle/Foot Injury,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0
+C. Coady,Conor,Conor,Wolverhampton …,1,0.0,Virus,19.0,0.0,0.0,0.0,0.0,0.0,0.0,16.0,19.0
+Daniel Podence,Daniel,Daniel,Wolverhampton …,5,12.0,Groin Strain,88.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,210.0
+Fernando Marçal,Fernando,Fernando,Wolverhampton …,17,35.0,Calf Muscle Strain,167.0,53.0,36.0,0.0,0.0,21.0,11.0,41.0,462.0
+Fábio Silva,Fábio Daniel,Fábio Daniel,Wolverhampton …,1,17.0,Virus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0
+Hugo Bueno,Hugo,Hugo,Wolverhampton …,1,1.0,Thigh Muscle Rupture,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+Hwang Hee-Chan,Hee-Chan,Hee-Chan,Wolverhampton …,4,17.0,Knock,52.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,69.0
+J. Ruddy,John,John,Wolverhampton …,1,0.0,Hip/Thigh Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,152.0
+Jonny Castro,Jonathan,Jonathan,Wolverhampton …,4,0.0,Knee Injury,183.0,103.0,25.0,0.0,0.0,0.0,0.0,54.0,601.0
+João Moutinho,João Filipe,João Filipe,Wolverhampton …,14,0.0,Ankle/Foot Injury,33.0,0.0,0.0,0.0,3.0,0.0,0.0,9.0,219.0
+L. Dendoncker,Leander,Leander,Wolverhampton …,3,0.0,Knock,26.0,0.0,29.0,0.0,0.0,0.0,0.0,19.0,55.0
+Nélson Semedo,Nélson,Nélson,Wolverhampton …,3,0.0,Calf Muscle Strain,6.0,33.0,0.0,0.0,0.0,0.0,0.0,0.0,72.0
+Pedro Neto,Pedro,Pedro,Wolverhampton …,5,144.0,Knee Injury,51.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,220.0
+R. Aït Nouri,Rayan,Rayan,Wolverhampton …,12,25.0,Knock,56.0,81.0,19.0,0.0,0.0,0.0,0.0,0.0,192.0
+R. Jiménez,Raúl Alonso,Raúl Alonso,Wolverhampton …,3,0.0,Head Injury,182.0,0.0,6.0,4.0,0.0,0.0,0.0,4.0,193.0
+R. Saïss,Romain,Romain,Wolverhampton …,6,0.0,Knock,35.0,26.0,0.0,0.0,0.0,8.0,0.0,38.0,81.0
+Rúben Neves,Rúben Diogo,Rúben Diogo,Wolverhampton …,1,0.0,Virus,12.0,0.0,0.0,5.0,0.0,0.0,5.0,33.0,12.0
+Trincão,Francisco António,Francisco António,Wolverhampton …,1,7.0,Virus,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0
+W. Boly,Willy-Arnaud,Willy-Arnaud,Wolverhampton …,7,19.0,Knock,81.0,88.0,0.0,0.0,0.0,13.0,15.0,28.0,264.0
+Y. Mosquera,Yerson,Yerson,Wolverhampton …,2,102.0,Hip/Thigh Injury,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,186.0
